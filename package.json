@@ -1,0 +1,27 @@
+{
+  "name": "cloudboost",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "easyimage": "^2.1.0",
+    "json8-patch": "^0.4.0",
+    "jsonwebtoken": "^8.1.0",
+    "morgan": "^1.9.0",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "chai-json-equal": "0.0.1",
+    "lint": "^1.1.2",
+    "mocha": "^4.0.1",
+    "superagent-binary-parser": "^1.0.1"
+  }
+}
