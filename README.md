@@ -12,6 +12,8 @@ Download/Installation Link : http://www.imagemagick.org/script/download.php
 
 Note: Please check the checkbox Install Legacy Utilities (eg. convert), when installing on windows system
 
+Add Imagemagick to your environmental path if not added.
+
 # Installing
 
 1. Create a new folder "cloudboost"
